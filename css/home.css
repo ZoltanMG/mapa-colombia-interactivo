@@ -23,8 +23,10 @@ a {
 }
 
 .color-departamento-estandar:hover {
-  /* fill es equibalente a bacground-color */
   fill: #24bbcf;
-  /* stroke es el color del borde */
   stroke: white;
+}
+
+.departamento-seleccionado{
+    fill: #17e6c3;
 }
