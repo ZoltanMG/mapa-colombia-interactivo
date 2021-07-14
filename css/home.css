@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #d4d3d3;
+}
+
+a {
+  cursor: pointer;
+}
+
+.mapa-colombia {
+  width: 80vh;
+}
+
+.color-departamento-estandar {
+  /* fill es equibalente a bacground-color */
+  fill: #8f8f8f;
+  /* stroke es el color del borde */
+  stroke: white;
+}
+
+.color-departamento-estandar:hover {
+  /* fill es equibalente a bacground-color */
+  fill: #24bbcf;
+  /* stroke es el color del borde */
+  stroke: white;
+}
