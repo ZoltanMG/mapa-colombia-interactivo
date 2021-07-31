@@ -1,2 +1,2 @@
-# mapa interactivo de Colombia
+# Mapa interactivo de Colombia
 Es un mapa político de Colombia interactivo con información básica demográfica en JavaScript.
